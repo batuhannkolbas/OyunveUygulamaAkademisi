@@ -7,7 +7,7 @@ Midnight Developers
 
 ## Takım Elemanları
 
-- Batuhan Sedat KOLBAŞ: Product Owner
+- Batuhan Sedat KOLBAŞ: Product Owner/Developer
 - Merve ŞAHAN: Scrum Master
 - Beyza Zeynep TOPÇU: Team Member/Developer
 - Orkun DEMİRCİ: Team Member/Developer
